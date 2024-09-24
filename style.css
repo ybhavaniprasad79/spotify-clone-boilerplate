@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    display: flex;
+}
+*{
+    color: white;
+    
+}
+.upper{
+   padding: 1vh;
+}
+.midle__class{
+    padding: 1vh;
+ }
+ .lower__class{
+    padding: 1vh;
+ }
+.midle__right{
+    text-align: center;
+}
+ 
